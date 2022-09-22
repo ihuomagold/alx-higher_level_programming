@@ -4,4 +4,4 @@ if __name__ == "__main__":
     result = 0
     for n in range(1, len(sys.argv)):
         result += int(sys.argv[n])
-        print("{}".format(result))
+    print("{}".format(result))
