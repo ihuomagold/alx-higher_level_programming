@@ -2,10 +2,10 @@
 """A Python program on Classes"""
 
 class User:
-    '''Represents a class that defines a square
+    """Represents a class that defines a square
     Private instance attribute: size
     Instantiation with size (no type/value verification).
-    '''
+    """
 
     def __init__(self, size):
         """Initializes the data."""
