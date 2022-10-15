@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""A Python program on Classes"""
+
 class User:
     '''Represents a class that defines a square
     Private instance attribute: size

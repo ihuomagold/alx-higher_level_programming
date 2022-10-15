@@ -1,4 +1,6 @@
-#!/usr/bin/python3 
+#!/usr/bin/python3
+"""A Python program on Classes"""
+
 class Square:
     """Private instance attribute: size
     property def size(self)
