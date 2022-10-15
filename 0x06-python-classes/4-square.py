@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A Python program on Classes"""
+"""A program on Classes"""
 
 
 class Square:
