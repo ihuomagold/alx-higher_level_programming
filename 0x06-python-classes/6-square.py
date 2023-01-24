@@ -33,7 +33,7 @@ class Square:
             raise ValueError("size must be >= 0")
         self.__size = value
 
-    @position.property
+    @property
     def position(self):
         """Retrieves the position"""
         return self.__position
@@ -51,7 +51,7 @@ class Square:
 
     def area(self):
         """Returns the current square area."""
-         return self.__size ** 2
+        return self.__size ** 2
 
     def my_print(self):
         """Prints to stdout the square with the character #,

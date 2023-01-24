@@ -12,8 +12,8 @@ class Square:
     """
 
     def __init__(self, size=0):
-    """Initializes the data."""
-    self.__size = size
+        """Initializes the data."""
+        self.__size = size
 
     def __eq__(self, other):
         """Equal."""
