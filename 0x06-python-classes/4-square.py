@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A Python program that defines a class Square."""
+"""A Python program on Classes"""
 
 
 class Square:
